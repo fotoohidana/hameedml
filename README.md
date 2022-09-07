@@ -21,3 +21,5 @@ Implementing the modFit (train, classe) with selected figures.
 Predict(modFit,testing).
 - item7
 Use my prediction model to predict 20 different test cases. 
+##  [1] B A B A A E B B A A B C B A E E A B B B
+## Levels: A B C D E
